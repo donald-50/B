@@ -1,6 +1,6 @@
 import E from 'E';
 
-const packageId = 'B 1.0.0';
+const packageId = 'B 2.0.0';
 export default packageId;
 
 console.log(`${packageId}: Loaded.`);
